@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "safuck"
+    }
+  },
+  "defaultProject": "safuck",
+  "cli": {
+    "analytics": false
+  }
 }
